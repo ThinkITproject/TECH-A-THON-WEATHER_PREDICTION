@@ -27,8 +27,8 @@ We have shown the weather Prediction using API Call also in which the model call
  
  
 # TEAM ThinkIT:
-  Team-Leader Name: Mayank Dhama
+  Team-Leader Name: Mayank Dhama, 
   Email: 1905853@kiit.ac.in
  
-  Group Member Name: Divyesh Nag
+  Group Member Name: Divyesh Nag, 
   Email: 1929013@kiit.ac.in
